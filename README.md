@@ -1,5 +1,5 @@
-# bitaddress.org
-JavaScript Client-Side Bitcoin Wallet Generator
+# ILCoin Paper Wallet Generator
+JavaScript Client-Side ILCoin Wallet Generator
 
 Now Bitcoin addresses and their corresponding private key can be conveniently 
 generated in a web browser.
